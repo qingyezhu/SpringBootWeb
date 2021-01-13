@@ -1,0 +1,13 @@
+spring:
+  mvc:
+    servlet:
+      load-on-startup: 1
+    view:
+      prefix: /
+      suffix: .html
+logging:
+  level:
+    root: debug
+server:
+  tomcat:
+    max-threads: 1
