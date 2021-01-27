@@ -1,8 +1,0 @@
-com/wangzhu/websocket/WebSocketServer.class
-com/wangzhu/service/impl/IHello.class
-com/wangzhu/Handler.class
-com/wangzhu/service/impl/HelloService.class
-com/wangzhu/ConfigBean.class
-com/wangzhu/Application.class
-com/wangzhu/filter/CostFilter.class
-com/wangzhu/controller/HelloController.class
