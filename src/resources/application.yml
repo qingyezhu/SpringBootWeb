@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: proc
   mvc:
     servlet:
       load-on-startup: 1
@@ -16,3 +18,8 @@ logging:
 server:
   tomcat:
     max-threads: 1
+demo:
+  user:
+    name: qingyezhu
+    age: 18
+    desc: 笑口常开，好彩自然来
